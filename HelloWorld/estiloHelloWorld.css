@@ -5,16 +5,16 @@ body, html, button {
     margin: 0;
     border: 0;
   }
-  
+
   main {
     max-width: 960px;
     margin: 0 auto;
   }
-  
+
   :root {
     --color-btnOlaMundo: darkgreen;
   }
-  
+
   .anuncio {
     width: 470px;
     height: 210px;
@@ -24,18 +24,18 @@ body, html, button {
     text-align: center;
     background-color: lightblue;
   }
-  
+
   .anuncio h1 {
-    margin: 40px 0;
+    margin: 40px 0;       
   }
-  
+
   .anuncio p {
     font-size: 18px;
     line-height: 28px;
     color: #00f;
     text-shadow: 1px 1px 1px #fff;
   }
-  
+
   .olaMundo {
     margin: 0 auto;
     display: block;
@@ -48,7 +48,7 @@ body, html, button {
     background-color: var(--color-btnOlaMundo);
     color: #fff;
   }
-  
+
   .olaMundo:hover {
     background-color: #41F945;
     border-color: var(--color-btnOlaMundo);
@@ -56,12 +56,12 @@ body, html, button {
     transition: background-color 1s;
     color: #000;
   }
-  
+
   .olaMundo:active {
     position: relative;
     top: 2px;
   }
-  
+
   footer {
     width: 100%;
     padding: 20px;
@@ -70,7 +70,7 @@ body, html, button {
     position: fixed;
     bottom: -10px;
   }
-  
+
   footer small {
     word-spacing: 0.2em;
     color: #333;

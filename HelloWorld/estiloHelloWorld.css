@@ -75,3 +75,8 @@ body, html, button {
     word-spacing: 0.2em;
     color: #333;
   }
+
+  /* === Ocultando Conteúdo === */
+  .hide {
+    display: none;
+  }

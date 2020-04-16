@@ -22,7 +22,7 @@ body, html, button {
     border: 4px double #000;
     margin: 52px auto 40px;
     text-align: center;
-    background-color: lightblue;
+    background-color: lightblue;   
   }
 
   .anuncio h1 {
@@ -78,5 +78,5 @@ body, html, button {
 
   /* === Ocultando Conteúdo === */
   .hide {
-    display: none;
+    opacity: 0;
   }

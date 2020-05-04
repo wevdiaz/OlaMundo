@@ -80,3 +80,37 @@ body, html, button {
   .hide {
     opacity: 0;
   }
+
+  /* === Box Saudacao === */
+  .dia {
+    padding: 20px;
+    color: cornflowerblue;
+    background-color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 160px;
+    margin: 0 auto;
+  }
+
+  .tarde {
+    padding: 20px;
+    color: orangered;
+    background-color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px; 
+    width: 160px;
+    margin: 0 auto;   
+  }
+
+  .noite {
+    padding: 20px;
+    color: darkmagenta;
+    background-color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 160px;
+    margin: 0 auto;
+  }
